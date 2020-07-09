@@ -1,1 +1,1 @@
-# Game_Mata_Mosquito-JS
+![Game Mata Mosquito](./assets/matamosquito.png)
